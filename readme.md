@@ -29,7 +29,6 @@
 </p>
 <br />
 
-<!-- About Section -->
 
 # Sobre Mim
 
@@ -61,7 +60,7 @@
 <br/>
 <br/>
 
-## Estastica
+## Estatística
 
 <p align="center">
   <a href="https://github.com/alsiam">
