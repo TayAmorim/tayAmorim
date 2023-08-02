@@ -24,11 +24,11 @@
                 <p>Eu sou Tayanna Amorim</p></b>
         </samp>
 </h1>
-<p align="center"> 
+<h2 align="center"> 
         <samp>
           「  Desenvolvedora Front-End  」
         </samp>
-</p>
+</h2>
 
 <p align="center">
  <a href="https://www.linkedin.com/in/tayanna-amorim" target="_blank">
