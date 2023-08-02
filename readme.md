@@ -19,11 +19,11 @@
 [![wakatime](https://wakatime.com/badge/user/eebb3dd8-d9b2-40de-9b88-6fd6cac99dbc.svg)](https://wakatime.com/@eebb3dd8-d9b2-40de-9b88-6fd6cac99dbc)
 
 <!-- Intro  -->
-<h3 align="center">
+<h1 align="center">
         <samp>&gt; Seja bem vindo! <br>
                 <p>Eu sou Tayanna Amorim</p></b>
         </samp>
-</h3>
+</h1>
 <p align="center"> 
         <samp>
           「  Desenvolvedora Front-End  」
