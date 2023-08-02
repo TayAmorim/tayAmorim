@@ -18,18 +18,18 @@
 
 [![wakatime](https://wakatime.com/badge/user/eebb3dd8-d9b2-40de-9b88-6fd6cac99dbc.svg)](https://wakatime.com/@eebb3dd8-d9b2-40de-9b88-6fd6cac99dbc)
 
-<!-- Intro  -->
 <h1 align="center">
         <samp>&gt; Seja bem vindo! <br>
                 <p>Eu sou Tayanna Amorim</p></b>
         </samp>
 </h1>
-<h2 align="center"> 
-        <samp>
-          「  Desenvolvedora Front-End  」
-        </samp>
-</h2>
 
+<h2 align="center">
+
+          「  Desenvolvedora Front-End  」
+
+</h2>
+<br>
 <p align="center">
  <a href="https://www.linkedin.com/in/tayanna-amorim" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Tayanna"/>
