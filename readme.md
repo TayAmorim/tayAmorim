@@ -63,7 +63,7 @@
 ## Estatística
 
 <p align="center">
-  <a href="https://github.com/alsiam">
+  <a href="https://github.com/tayAmorim">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=tayAmorim&theme=radical&border=7F3FBF&background=0D1117" alt="Saif's GitHub streak"/>
   </a>
 </p>
