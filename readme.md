@@ -36,7 +36,7 @@
 
 ☕ &emsp; Apaixonada por cafés especiais <br/><br/>
 🏋🏽 &emsp; Comprometida com um estilo de vida saudável. <br/><br/>
-🧠 &emsp; Cativada pela liberdade criativa do mundo da programação, decidir fazer a transição de carreira, que agora em 2023 está tomando forma.<br/><br/>
+🧠 &emsp; Encantada pela liberdade criativa do universo da programação, decidi realizar uma transição de carreira.<br/><br/>
 💬 &emsp; Pergunte-me sobre qualquer coisa [aqui](https://github.com/tayAmorim/tayAmorim/issues)
 
 </p>
