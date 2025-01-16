@@ -12,7 +12,7 @@
 
 <h2 align="center">
 
-          「  Desenvolvedora Full Stack  」
+          「  Desenvolvedora Front-End  」
 
 </h2>
 <br>
